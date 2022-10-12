@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.0",
+    "libraryName": "formik",
+    "libraryId": "d3b8ba51-ceb3-48c8-85f5-771a301fa0d4",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "formik",
+    "solutionShortDescription": "formik description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
